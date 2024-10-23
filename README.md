@@ -3,7 +3,7 @@ This notebook includes the implementation of the following intrinsic motivation 
 1. **RND**: Exploration by Random Network Distillation
 https://arxiv.org/pdf/1810.12894.pdf
 
-2. **DRND**:Distributional Random Network Distillation (DRND)
+2. **DRND**:Distributional Random Network Distillation
 https://arxiv.org/abs/2401.09750
 
 3. **ICM**: Curiosity-driven Exploration by Self-supervised Prediction
