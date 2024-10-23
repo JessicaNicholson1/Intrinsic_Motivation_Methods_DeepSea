@@ -1,1 +1,8 @@
-# Intrinsic_Motivation_Methods_DeepSea
+# Intrinsic Motivation Methods DeepSea
+- RND
+- DRND
+- ICM
+- Count
+- Ride
+- Surprisal
+- LBS
